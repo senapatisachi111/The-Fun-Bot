@@ -32,7 +32,7 @@
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Joelkb/The-Fun-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/senapatisachi111/The-Fun-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
